@@ -14,6 +14,7 @@
 }
 body{
     background-color: rgb(0, 0, 0);
+     
     
 }
 header{
@@ -23,6 +24,7 @@ header{
     text-align: center;
     font-family: 'Blackletter';
     font-weight: 900;
+    
 }
 header > p{
     margin-top: 30px;
@@ -77,6 +79,7 @@ section > h2{
     font-family: "Passion One" ;
     font-weight: normal;
     margin: 10px;
+     
     
      
 }
